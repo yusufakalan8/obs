@@ -1,0 +1,275 @@
+c:\users\halit\onedrive\belgeler\visual studio 2013\Projects\OTOMASYONV1\OTOMASYONV1\bin\Debug\OTOMASYONV1.exe.config
+c:\users\halit\onedrive\belgeler\visual studio 2013\Projects\OTOMASYONV1\OTOMASYONV1\bin\Debug\OTOMASYONV1.exe
+c:\users\halit\onedrive\belgeler\visual studio 2013\Projects\OTOMASYONV1\OTOMASYONV1\bin\Debug\OTOMASYONV1.pdb
+c:\users\halit\onedrive\belgeler\visual studio 2013\Projects\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.csprojResolveAssemblyReference.cache
+c:\users\halit\onedrive\belgeler\visual studio 2013\Projects\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.Form1.resources
+c:\users\halit\onedrive\belgeler\visual studio 2013\Projects\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.Properties.Resources.resources
+c:\users\halit\onedrive\belgeler\visual studio 2013\Projects\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.csproj.GenerateResource.Cache
+c:\users\halit\onedrive\belgeler\visual studio 2013\Projects\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.exe
+c:\users\halit\onedrive\belgeler\visual studio 2013\Projects\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.pdb
+c:\users\halit\onedrive\belgeler\visual studio 2013\Projects\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.FrmAnaForm.resources
+C:\Users\halit\onedrive\belgeler\visual studio 2013\Projects\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.FrmDersler.resources
+C:\Users\halit\onedrive\belgeler\visual studio 2013\Projects\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.FrmDersSecme.resources
+C:\Users\halit\onedrive\belgeler\visual studio 2013\Projects\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.FrmSecilenDersListesi.resources
+C:\Users\halit\onedrive\belgeler\visual studio 2013\Projects\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.FrmNotListesi.resources
+C:\Users\halit\onedrive\belgeler\visual studio 2013\Projects\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.FrmDevamsizlik.resources
+C:\Users\halit\onedrive\belgeler\visual studio 2013\Projects\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.YonetimPaneli.FrmAkademiGiris.resources
+C:\Users\halit\onedrive\belgeler\visual studio 2013\Projects\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.YonetimPaneli.FrmEgitimciAnaform.resources
+C:\Users\halit\onedrive\belgeler\visual studio 2013\Projects\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.YonetimPaneli.FrmDersAc.resources
+C:\Users\halit\onedrive\belgeler\visual studio 2013\Projects\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.YonetimPaneli.FrmNotGirisi.resources
+C:\Users\halit\onedrive\belgeler\visual studio 2013\Projects\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.YonetimPaneli.FrmDevamsizlikKaydı.resources
+C:\Users\halit\onedrive\belgeler\visual studio 2013\Projects\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.Yetkili.FrmYetgiliGiris.resources
+C:\Users\halit\onedrive\belgeler\visual studio 2013\Projects\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.Yetkili.FrmYetkiliANAFORM.resources
+C:\Users\halit\onedrive\belgeler\visual studio 2013\Projects\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.Yetkili.FrmFakBolEkle.resources
+C:\Users\halit\onedrive\belgeler\visual studio 2013\Projects\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.Yetkili.FrmBolumEkle.resources
+C:\Users\halit\onedrive\belgeler\visual studio 2013\Projects\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.Yetkili.FrmUniBilgiFormu.resources
+C:\Users\halit\onedrive\belgeler\visual studio 2013\Projects\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.Yetkili.FrmAKADEMISYENekle.resources
+C:\Users\halit\onedrive\belgeler\visual studio 2013\Projects\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.FRMACILISFORMU.resources
+C:\Users\halit\onedrive\belgeler\visual studio 2013\Projects\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.YonetimPaneli.FrmAKADEMISYENGUNCELLE.resources
+C:\Users\halit\onedrive\belgeler\visual studio 2013\Projects\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.FrmOgrenciBilgiGuncelle.resources
+C:\Users\halit\onedrive\belgeler\visual studio 2013\Projects\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.Yetkili.FrmOgrenciEkle.resources
+C:\Users\halit\onedrive\belgeler\visual studio 2013\Projects\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.Yetkili.FrmOgrenciLISTESI.resources
+C:\Users\MONSTER\Desktop\OTOMASYONV1\OTOMASYONV1\bin\Debug\OTOMASYONV1.exe.config
+C:\Users\MONSTER\Desktop\OTOMASYONV1\OTOMASYONV1\bin\Debug\OTOMASYONV1.exe
+C:\Users\MONSTER\Desktop\OTOMASYONV1\OTOMASYONV1\bin\Debug\OTOMASYONV1.pdb
+C:\Users\MONSTER\Desktop\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.csproj.AssemblyReference.cache
+C:\Users\MONSTER\Desktop\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.csproj.SuggestedBindingRedirects.cache
+C:\Users\MONSTER\Desktop\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.Form1.resources
+C:\Users\MONSTER\Desktop\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.FRMACILISFORMU.resources
+C:\Users\MONSTER\Desktop\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.FrmAnaForm.resources
+C:\Users\MONSTER\Desktop\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.FrmDersler.resources
+C:\Users\MONSTER\Desktop\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.FrmDersSecme.resources
+C:\Users\MONSTER\Desktop\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.FrmDevamsizlik.resources
+C:\Users\MONSTER\Desktop\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.FrmNotListesi.resources
+C:\Users\MONSTER\Desktop\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.FrmOgrenciBilgiGuncelle.resources
+C:\Users\MONSTER\Desktop\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.FrmSecilenDersListesi.resources
+C:\Users\MONSTER\Desktop\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.Properties.Resources.resources
+C:\Users\MONSTER\Desktop\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.Yetkili.FrmAKADEMISYENekle.resources
+C:\Users\MONSTER\Desktop\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.Yetkili.FrmBolumEkle.resources
+C:\Users\MONSTER\Desktop\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.Yetkili.FrmFakBolEkle.resources
+C:\Users\MONSTER\Desktop\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.Yetkili.FrmOgrenciEkle.resources
+C:\Users\MONSTER\Desktop\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.Yetkili.FrmOgrenciLISTESI.resources
+C:\Users\MONSTER\Desktop\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.Yetkili.FrmUniBilgiFormu.resources
+C:\Users\MONSTER\Desktop\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.Yetkili.FrmYetgiliGiris.resources
+C:\Users\MONSTER\Desktop\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.Yetkili.FrmYetkiliANAFORM.resources
+C:\Users\MONSTER\Desktop\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.YonetimPaneli.FrmAkademiGiris.resources
+C:\Users\MONSTER\Desktop\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.YonetimPaneli.FrmAKADEMISYENGUNCELLE.resources
+C:\Users\MONSTER\Desktop\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.YonetimPaneli.FrmDersAc.resources
+C:\Users\MONSTER\Desktop\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.YonetimPaneli.FrmDevamsizlikKaydı.resources
+C:\Users\MONSTER\Desktop\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.YonetimPaneli.FrmEgitimciANAFORM.resources
+C:\Users\MONSTER\Desktop\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.YonetimPaneli.FrmNotGirisi.resources
+C:\Users\MONSTER\Desktop\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.csproj.GenerateResource.cache
+C:\Users\MONSTER\Desktop\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Desktop\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.exe
+C:\Users\MONSTER\Desktop\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.pdb
+C:\Users\MONSTER\Desktop\projenin son hali\OTOMASYONV1\OTOMASYONV1\bin\Debug\OTOMASYONV1.exe.config
+C:\Users\MONSTER\Desktop\projenin son hali\OTOMASYONV1\OTOMASYONV1\bin\Debug\OTOMASYONV1.exe
+C:\Users\MONSTER\Desktop\projenin son hali\OTOMASYONV1\OTOMASYONV1\bin\Debug\OTOMASYONV1.pdb
+C:\Users\MONSTER\Desktop\projenin son hali\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.csproj.AssemblyReference.cache
+C:\Users\MONSTER\Desktop\projenin son hali\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.csproj.SuggestedBindingRedirects.cache
+C:\Users\MONSTER\Desktop\projenin son hali\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.Form1.resources
+C:\Users\MONSTER\Desktop\projenin son hali\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.FRMACILISFORMU.resources
+C:\Users\MONSTER\Desktop\projenin son hali\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.FrmAnaForm.resources
+C:\Users\MONSTER\Desktop\projenin son hali\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.FrmDersler.resources
+C:\Users\MONSTER\Desktop\projenin son hali\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.FrmDersSecme.resources
+C:\Users\MONSTER\Desktop\projenin son hali\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.FrmDevamsizlik.resources
+C:\Users\MONSTER\Desktop\projenin son hali\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.FrmNotListesi.resources
+C:\Users\MONSTER\Desktop\projenin son hali\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.FrmOgrenciBilgiGuncelle.resources
+C:\Users\MONSTER\Desktop\projenin son hali\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.FrmSecilenDersListesi.resources
+C:\Users\MONSTER\Desktop\projenin son hali\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.Properties.Resources.resources
+C:\Users\MONSTER\Desktop\projenin son hali\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.Yetkili.FrmAKADEMISYENekle.resources
+C:\Users\MONSTER\Desktop\projenin son hali\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.Yetkili.FrmBolumEkle.resources
+C:\Users\MONSTER\Desktop\projenin son hali\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.Yetkili.FrmFakBolEkle.resources
+C:\Users\MONSTER\Desktop\projenin son hali\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.Yetkili.FrmOgrenciEkle.resources
+C:\Users\MONSTER\Desktop\projenin son hali\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.Yetkili.FrmOgrenciLISTESI.resources
+C:\Users\MONSTER\Desktop\projenin son hali\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.Yetkili.FrmUniBilgiFormu.resources
+C:\Users\MONSTER\Desktop\projenin son hali\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.Yetkili.FrmYetgiliGiris.resources
+C:\Users\MONSTER\Desktop\projenin son hali\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.Yetkili.FrmYetkiliANAFORM.resources
+C:\Users\MONSTER\Desktop\projenin son hali\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.YonetimPaneli.FrmAkademiGiris.resources
+C:\Users\MONSTER\Desktop\projenin son hali\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.YonetimPaneli.FrmAKADEMISYENGUNCELLE.resources
+C:\Users\MONSTER\Desktop\projenin son hali\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.YonetimPaneli.FrmDersAc.resources
+C:\Users\MONSTER\Desktop\projenin son hali\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.YonetimPaneli.FrmDevamsizlikKaydı.resources
+C:\Users\MONSTER\Desktop\projenin son hali\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.YonetimPaneli.FrmEgitimciANAFORM.resources
+C:\Users\MONSTER\Desktop\projenin son hali\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.YonetimPaneli.FrmNotGirisi.resources
+C:\Users\MONSTER\Desktop\projenin son hali\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.csproj.GenerateResource.cache
+C:\Users\MONSTER\Desktop\projenin son hali\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Desktop\projenin son hali\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.exe
+C:\Users\MONSTER\Desktop\projenin son hali\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.pdb
+C:\Users\MONSTER\Desktop\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\bin\Debug\OTOMASYONV1.exe.config
+C:\Users\MONSTER\Desktop\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\bin\Debug\OTOMASYONV1.exe
+C:\Users\MONSTER\Desktop\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\bin\Debug\OTOMASYONV1.pdb
+C:\Users\MONSTER\Desktop\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.csproj.AssemblyReference.cache
+C:\Users\MONSTER\Desktop\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.csproj.SuggestedBindingRedirects.cache
+C:\Users\MONSTER\Desktop\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.Form1.resources
+C:\Users\MONSTER\Desktop\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.FRMACILISFORMU.resources
+C:\Users\MONSTER\Desktop\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.FrmAnaForm.resources
+C:\Users\MONSTER\Desktop\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.FrmDersler.resources
+C:\Users\MONSTER\Desktop\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.FrmDersSecme.resources
+C:\Users\MONSTER\Desktop\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.FrmDevamsizlik.resources
+C:\Users\MONSTER\Desktop\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.FrmNotListesi.resources
+C:\Users\MONSTER\Desktop\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.FrmOgrenciBilgiGuncelle.resources
+C:\Users\MONSTER\Desktop\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.FrmSecilenDersListesi.resources
+C:\Users\MONSTER\Desktop\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.Properties.Resources.resources
+C:\Users\MONSTER\Desktop\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.Yetkili.FrmAKADEMISYENekle.resources
+C:\Users\MONSTER\Desktop\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.Yetkili.FrmBolumEkle.resources
+C:\Users\MONSTER\Desktop\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.Yetkili.FrmFakBolEkle.resources
+C:\Users\MONSTER\Desktop\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.Yetkili.FrmOgrenciEkle.resources
+C:\Users\MONSTER\Desktop\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.Yetkili.FrmOgrenciLISTESI.resources
+C:\Users\MONSTER\Desktop\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.Yetkili.FrmUniBilgiFormu.resources
+C:\Users\MONSTER\Desktop\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.Yetkili.FrmYetgiliGiris.resources
+C:\Users\MONSTER\Desktop\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.Yetkili.FrmYetkiliANAFORM.resources
+C:\Users\MONSTER\Desktop\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.YonetimPaneli.FrmAkademiGiris.resources
+C:\Users\MONSTER\Desktop\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.YonetimPaneli.FrmAKADEMISYENGUNCELLE.resources
+C:\Users\MONSTER\Desktop\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.YonetimPaneli.FrmDersAc.resources
+C:\Users\MONSTER\Desktop\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.YonetimPaneli.FrmDevamsizlikKaydı.resources
+C:\Users\MONSTER\Desktop\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.YonetimPaneli.FrmEgitimciANAFORM.resources
+C:\Users\MONSTER\Desktop\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.YonetimPaneli.FrmNotGirisi.resources
+C:\Users\MONSTER\Desktop\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.csproj.GenerateResource.cache
+C:\Users\MONSTER\Desktop\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Desktop\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.exe
+C:\Users\MONSTER\Desktop\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.pdb
+C:\Users\MONSTER\Desktop\en son hali\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\bin\Debug\OTOMASYONV1.exe.config
+C:\Users\MONSTER\Desktop\en son hali\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\bin\Debug\OTOMASYONV1.exe
+C:\Users\MONSTER\Desktop\en son hali\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\bin\Debug\OTOMASYONV1.pdb
+C:\Users\MONSTER\Desktop\en son hali\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.csproj.AssemblyReference.cache
+C:\Users\MONSTER\Desktop\en son hali\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.csproj.SuggestedBindingRedirects.cache
+C:\Users\MONSTER\Desktop\en son hali\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.Form1.resources
+C:\Users\MONSTER\Desktop\en son hali\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.FRMACILISFORMU.resources
+C:\Users\MONSTER\Desktop\en son hali\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.FrmAnaForm.resources
+C:\Users\MONSTER\Desktop\en son hali\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.FrmDersler.resources
+C:\Users\MONSTER\Desktop\en son hali\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.FrmDersSecme.resources
+C:\Users\MONSTER\Desktop\en son hali\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.FrmDevamsizlik.resources
+C:\Users\MONSTER\Desktop\en son hali\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.FrmNotListesi.resources
+C:\Users\MONSTER\Desktop\en son hali\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.FrmOgrenciBilgiGuncelle.resources
+C:\Users\MONSTER\Desktop\en son hali\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.FrmSecilenDersListesi.resources
+C:\Users\MONSTER\Desktop\en son hali\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.Properties.Resources.resources
+C:\Users\MONSTER\Desktop\en son hali\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.Yetkili.FrmAKADEMISYENekle.resources
+C:\Users\MONSTER\Desktop\en son hali\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.Yetkili.FrmBolumEkle.resources
+C:\Users\MONSTER\Desktop\en son hali\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.Yetkili.FrmFakBolEkle.resources
+C:\Users\MONSTER\Desktop\en son hali\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.Yetkili.FrmOgrenciEkle.resources
+C:\Users\MONSTER\Desktop\en son hali\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.Yetkili.FrmOgrenciLISTESI.resources
+C:\Users\MONSTER\Desktop\en son hali\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.Yetkili.FrmUniBilgiFormu.resources
+C:\Users\MONSTER\Desktop\en son hali\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.Yetkili.FrmYetgiliGiris.resources
+C:\Users\MONSTER\Desktop\en son hali\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.Yetkili.FrmYetkiliANAFORM.resources
+C:\Users\MONSTER\Desktop\en son hali\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.YonetimPaneli.FrmAkademiGiris.resources
+C:\Users\MONSTER\Desktop\en son hali\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.YonetimPaneli.FrmAKADEMISYENGUNCELLE.resources
+C:\Users\MONSTER\Desktop\en son hali\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.YonetimPaneli.FrmDersAc.resources
+C:\Users\MONSTER\Desktop\en son hali\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.YonetimPaneli.FrmDevamsizlikKaydı.resources
+C:\Users\MONSTER\Desktop\en son hali\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.YonetimPaneli.FrmEgitimciANAFORM.resources
+C:\Users\MONSTER\Desktop\en son hali\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.YonetimPaneli.FrmNotGirisi.resources
+C:\Users\MONSTER\Desktop\en son hali\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.csproj.GenerateResource.cache
+C:\Users\MONSTER\Desktop\en son hali\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Desktop\en son hali\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.exe
+C:\Users\MONSTER\Desktop\en son hali\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.pdb
+C:\Users\MONSTER\Desktop\projenin en son hali\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\bin\Debug\OTOMASYONV1.exe.config
+C:\Users\MONSTER\Desktop\projenin en son hali\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\bin\Debug\OTOMASYONV1.exe
+C:\Users\MONSTER\Desktop\projenin en son hali\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\bin\Debug\OTOMASYONV1.pdb
+C:\Users\MONSTER\Desktop\projenin en son hali\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.csproj.AssemblyReference.cache
+C:\Users\MONSTER\Desktop\projenin en son hali\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.csproj.SuggestedBindingRedirects.cache
+C:\Users\MONSTER\Desktop\projenin en son hali\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.Form1.resources
+C:\Users\MONSTER\Desktop\projenin en son hali\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.FRMACILISFORMU.resources
+C:\Users\MONSTER\Desktop\projenin en son hali\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.FrmAnaForm.resources
+C:\Users\MONSTER\Desktop\projenin en son hali\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.FrmDersler.resources
+C:\Users\MONSTER\Desktop\projenin en son hali\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.FrmDersSecme.resources
+C:\Users\MONSTER\Desktop\projenin en son hali\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.FrmDevamsizlik.resources
+C:\Users\MONSTER\Desktop\projenin en son hali\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.FrmNotListesi.resources
+C:\Users\MONSTER\Desktop\projenin en son hali\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.FrmOgrenciBilgiGuncelle.resources
+C:\Users\MONSTER\Desktop\projenin en son hali\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.FrmSecilenDersListesi.resources
+C:\Users\MONSTER\Desktop\projenin en son hali\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.Properties.Resources.resources
+C:\Users\MONSTER\Desktop\projenin en son hali\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.Yetkili.FrmAKADEMISYENekle.resources
+C:\Users\MONSTER\Desktop\projenin en son hali\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.Yetkili.FrmBolumEkle.resources
+C:\Users\MONSTER\Desktop\projenin en son hali\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.Yetkili.FrmFakBolEkle.resources
+C:\Users\MONSTER\Desktop\projenin en son hali\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.Yetkili.FrmOgrenciEkle.resources
+C:\Users\MONSTER\Desktop\projenin en son hali\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.Yetkili.FrmOgrenciLISTESI.resources
+C:\Users\MONSTER\Desktop\projenin en son hali\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.Yetkili.FrmUniBilgiFormu.resources
+C:\Users\MONSTER\Desktop\projenin en son hali\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.Yetkili.FrmYetgiliGiris.resources
+C:\Users\MONSTER\Desktop\projenin en son hali\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.Yetkili.FrmYetkiliANAFORM.resources
+C:\Users\MONSTER\Desktop\projenin en son hali\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.YonetimPaneli.FrmAkademiGiris.resources
+C:\Users\MONSTER\Desktop\projenin en son hali\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.YonetimPaneli.FrmAKADEMISYENGUNCELLE.resources
+C:\Users\MONSTER\Desktop\projenin en son hali\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.YonetimPaneli.FrmDersAc.resources
+C:\Users\MONSTER\Desktop\projenin en son hali\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.YonetimPaneli.FrmDevamsizlikKaydı.resources
+C:\Users\MONSTER\Desktop\projenin en son hali\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.YonetimPaneli.FrmEgitimciANAFORM.resources
+C:\Users\MONSTER\Desktop\projenin en son hali\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.YonetimPaneli.FrmNotGirisi.resources
+C:\Users\MONSTER\Desktop\projenin en son hali\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.csproj.GenerateResource.cache
+C:\Users\MONSTER\Desktop\projenin en son hali\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Desktop\projenin en son hali\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.exe
+C:\Users\MONSTER\Desktop\projenin en son hali\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.pdb
+C:\Users\MONSTER\Desktop\projenin en son hali\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.FrmSifremiUnuttumOgrenci.resources
+C:\Users\MONSTER\Desktop\projenin en son hali\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.Yetkili.FrmDuyuruEkle.resources
+C:\Users\MONSTER\Desktop\projenin en son hali\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.Yetkili.FrmDuyurular.resources
+C:\Users\MONSTER\Desktop\projenin en son hali\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.FrmDuyurulariGoruntule.resources
+C:\Users\MONSTER\Desktop\projenin en son hali - Kopya\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\bin\Debug\OTOMASYONV1.exe.config
+C:\Users\MONSTER\Desktop\projenin en son hali - Kopya\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\bin\Debug\OTOMASYONV1.exe
+C:\Users\MONSTER\Desktop\projenin en son hali - Kopya\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\bin\Debug\OTOMASYONV1.pdb
+C:\Users\MONSTER\Desktop\projenin en son hali - Kopya\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.csproj.AssemblyReference.cache
+C:\Users\MONSTER\Desktop\projenin en son hali - Kopya\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.csproj.SuggestedBindingRedirects.cache
+C:\Users\MONSTER\Desktop\projenin en son hali - Kopya\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.Form1.resources
+C:\Users\MONSTER\Desktop\projenin en son hali - Kopya\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.FRMACILISFORMU.resources
+C:\Users\MONSTER\Desktop\projenin en son hali - Kopya\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.FrmAnaForm.resources
+C:\Users\MONSTER\Desktop\projenin en son hali - Kopya\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.FrmDersler.resources
+C:\Users\MONSTER\Desktop\projenin en son hali - Kopya\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.FrmDersSecme.resources
+C:\Users\MONSTER\Desktop\projenin en son hali - Kopya\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.FrmDevamsizlik.resources
+C:\Users\MONSTER\Desktop\projenin en son hali - Kopya\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.FrmDuyurulariGoruntule.resources
+C:\Users\MONSTER\Desktop\projenin en son hali - Kopya\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.FrmNotListesi.resources
+C:\Users\MONSTER\Desktop\projenin en son hali - Kopya\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.FrmOgrenciBilgiGuncelle.resources
+C:\Users\MONSTER\Desktop\projenin en son hali - Kopya\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.FrmSecilenDersListesi.resources
+C:\Users\MONSTER\Desktop\projenin en son hali - Kopya\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.Properties.Resources.resources
+C:\Users\MONSTER\Desktop\projenin en son hali - Kopya\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.Yetkili.FrmDuyuruEkle.resources
+C:\Users\MONSTER\Desktop\projenin en son hali - Kopya\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.Yetkili.FrmAKADEMISYENekle.resources
+C:\Users\MONSTER\Desktop\projenin en son hali - Kopya\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.Yetkili.FrmBolumEkle.resources
+C:\Users\MONSTER\Desktop\projenin en son hali - Kopya\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.Yetkili.FrmDuyurular.resources
+C:\Users\MONSTER\Desktop\projenin en son hali - Kopya\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.Yetkili.FrmFakBolEkle.resources
+C:\Users\MONSTER\Desktop\projenin en son hali - Kopya\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.Yetkili.FrmOgrenciEkle.resources
+C:\Users\MONSTER\Desktop\projenin en son hali - Kopya\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.Yetkili.FrmOgrenciLISTESI.resources
+C:\Users\MONSTER\Desktop\projenin en son hali - Kopya\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.Yetkili.FrmUniBilgiFormu.resources
+C:\Users\MONSTER\Desktop\projenin en son hali - Kopya\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.Yetkili.FrmYetgiliGiris.resources
+C:\Users\MONSTER\Desktop\projenin en son hali - Kopya\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.Yetkili.FrmYetkiliANAFORM.resources
+C:\Users\MONSTER\Desktop\projenin en son hali - Kopya\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.YonetimPaneli.FrmAkademiGiris.resources
+C:\Users\MONSTER\Desktop\projenin en son hali - Kopya\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.YonetimPaneli.FrmAKADEMISYENGUNCELLE.resources
+C:\Users\MONSTER\Desktop\projenin en son hali - Kopya\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.YonetimPaneli.FrmDersAc.resources
+C:\Users\MONSTER\Desktop\projenin en son hali - Kopya\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.YonetimPaneli.FrmDevamsizlikKaydı.resources
+C:\Users\MONSTER\Desktop\projenin en son hali - Kopya\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.YonetimPaneli.FrmEgitimciANAFORM.resources
+C:\Users\MONSTER\Desktop\projenin en son hali - Kopya\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.YonetimPaneli.FrmNotGirisi.resources
+C:\Users\MONSTER\Desktop\projenin en son hali - Kopya\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.csproj.GenerateResource.cache
+C:\Users\MONSTER\Desktop\projenin en son hali - Kopya\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Desktop\projenin en son hali - Kopya\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.exe
+C:\Users\MONSTER\Desktop\projenin en son hali - Kopya\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.pdb
+C:\Users\MONSTER\Desktop\PROJENİN EN SON HALİ BU DOSYADADIR\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\bin\Debug\OTOMASYONV1.exe.config
+C:\Users\MONSTER\Desktop\PROJENİN EN SON HALİ BU DOSYADADIR\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\bin\Debug\OTOMASYONV1.exe
+C:\Users\MONSTER\Desktop\PROJENİN EN SON HALİ BU DOSYADADIR\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\bin\Debug\OTOMASYONV1.pdb
+C:\Users\MONSTER\Desktop\PROJENİN EN SON HALİ BU DOSYADADIR\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.csproj.AssemblyReference.cache
+C:\Users\MONSTER\Desktop\PROJENİN EN SON HALİ BU DOSYADADIR\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.csproj.SuggestedBindingRedirects.cache
+C:\Users\MONSTER\Desktop\PROJENİN EN SON HALİ BU DOSYADADIR\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.Form1.resources
+C:\Users\MONSTER\Desktop\PROJENİN EN SON HALİ BU DOSYADADIR\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.FRMACILISFORMU.resources
+C:\Users\MONSTER\Desktop\PROJENİN EN SON HALİ BU DOSYADADIR\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.FrmAnaForm.resources
+C:\Users\MONSTER\Desktop\PROJENİN EN SON HALİ BU DOSYADADIR\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.FrmDersler.resources
+C:\Users\MONSTER\Desktop\PROJENİN EN SON HALİ BU DOSYADADIR\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.FrmDersSecme.resources
+C:\Users\MONSTER\Desktop\PROJENİN EN SON HALİ BU DOSYADADIR\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.FrmDevamsizlik.resources
+C:\Users\MONSTER\Desktop\PROJENİN EN SON HALİ BU DOSYADADIR\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.FrmNotListesi.resources
+C:\Users\MONSTER\Desktop\PROJENİN EN SON HALİ BU DOSYADADIR\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.FrmOgrenciBilgiGuncelle.resources
+C:\Users\MONSTER\Desktop\PROJENİN EN SON HALİ BU DOSYADADIR\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.FrmSecilenDersListesi.resources
+C:\Users\MONSTER\Desktop\PROJENİN EN SON HALİ BU DOSYADADIR\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.Properties.Resources.resources
+C:\Users\MONSTER\Desktop\PROJENİN EN SON HALİ BU DOSYADADIR\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.Yetkili.FrmAKADEMISYENekle.resources
+C:\Users\MONSTER\Desktop\PROJENİN EN SON HALİ BU DOSYADADIR\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.Yetkili.FrmBolumEkle.resources
+C:\Users\MONSTER\Desktop\PROJENİN EN SON HALİ BU DOSYADADIR\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.Yetkili.FrmFakBolEkle.resources
+C:\Users\MONSTER\Desktop\PROJENİN EN SON HALİ BU DOSYADADIR\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.Yetkili.FrmOgrenciEkle.resources
+C:\Users\MONSTER\Desktop\PROJENİN EN SON HALİ BU DOSYADADIR\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.Yetkili.FrmOgrenciLISTESI.resources
+C:\Users\MONSTER\Desktop\PROJENİN EN SON HALİ BU DOSYADADIR\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.Yetkili.FrmUniBilgiFormu.resources
+C:\Users\MONSTER\Desktop\PROJENİN EN SON HALİ BU DOSYADADIR\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.Yetkili.FrmYetgiliGiris.resources
+C:\Users\MONSTER\Desktop\PROJENİN EN SON HALİ BU DOSYADADIR\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.Yetkili.FrmYetkiliANAFORM.resources
+C:\Users\MONSTER\Desktop\PROJENİN EN SON HALİ BU DOSYADADIR\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.YonetimPaneli.FrmAkademiGiris.resources
+C:\Users\MONSTER\Desktop\PROJENİN EN SON HALİ BU DOSYADADIR\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.YonetimPaneli.FrmAKADEMISYENGUNCELLE.resources
+C:\Users\MONSTER\Desktop\PROJENİN EN SON HALİ BU DOSYADADIR\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.YonetimPaneli.FrmDevamsizlikKaydı.resources
+C:\Users\MONSTER\Desktop\PROJENİN EN SON HALİ BU DOSYADADIR\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.YonetimPaneli.FrmEgitimciANAFORM.resources
+C:\Users\MONSTER\Desktop\PROJENİN EN SON HALİ BU DOSYADADIR\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.YonetimPaneli.FrmNotGirisi.resources
+C:\Users\MONSTER\Desktop\PROJENİN EN SON HALİ BU DOSYADADIR\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.csproj.GenerateResource.cache
+C:\Users\MONSTER\Desktop\PROJENİN EN SON HALİ BU DOSYADADIR\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Desktop\PROJENİN EN SON HALİ BU DOSYADADIR\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.exe
+C:\Users\MONSTER\Desktop\PROJENİN EN SON HALİ BU DOSYADADIR\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.pdb
+C:\Users\MONSTER\Desktop\PROJENİN EN SON HALİ BU DOSYADADIR\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.FrmOgrenciDuyurulariGoruntule.resources
+C:\Users\MONSTER\Desktop\PROJENİN EN SON HALİ BU DOSYADADIR\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.Yetkili.FrmAkademisyenDuyuruEkle.resources
+C:\Users\MONSTER\Desktop\PROJENİN EN SON HALİ BU DOSYADADIR\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.Yetkili.FrmAkademisyenDuyurular.resources
+C:\Users\MONSTER\Desktop\PROJENİN EN SON HALİ BU DOSYADADIR\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.Yetkili.FrmOgrenciDuyuruEkle.resources
+C:\Users\MONSTER\Desktop\PROJENİN EN SON HALİ BU DOSYADADIR\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.Yetkili.FrmOgrenciDuyurular.resources
+C:\Users\MONSTER\Desktop\PROJENİN EN SON HALİ BU DOSYADADIR\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.YonetimPaneli.FrmAkademisyenDuyurulariGoruntule.resources
+C:\Users\MONSTER\Desktop\PROJENİN EN SON HALİ BU DOSYADADIR\projenin son hali - Kopya\OTOMASYONV1\OTOMASYONV1\obj\Debug\OTOMASYONV1.YonetimPaneli.FrmDersAc2.resources

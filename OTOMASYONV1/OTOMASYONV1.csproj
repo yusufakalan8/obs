@@ -1,0 +1,400 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C9ECFC35-2E24-4FB1-9FCD-90ADE3B723B4}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>OTOMASYONV1</RootNamespace>
+    <AssemblyName>OTOMASYONV1</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRMACILISFORMU.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRMACILISFORMU.Designer.cs">
+      <DependentUpon>FRMACILISFORMU.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAnaForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAnaForm.Designer.cs">
+      <DependentUpon>FrmAnaForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDersler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDersler.Designer.cs">
+      <DependentUpon>FrmDersler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDersSecme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDersSecme.Designer.cs">
+      <DependentUpon>FrmDersSecme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDevamsizlik.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDevamsizlik.Designer.cs">
+      <DependentUpon>FrmDevamsizlik.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmOgrenciDuyurulariGoruntule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmOgrenciDuyurulariGoruntule.Designer.cs">
+      <DependentUpon>FrmOgrenciDuyurulariGoruntule.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmNotListesi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmNotListesi.Designer.cs">
+      <DependentUpon>FrmNotListesi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmOgrenciBilgiGuncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmOgrenciBilgiGuncelle.Designer.cs">
+      <DependentUpon>FrmOgrenciBilgiGuncelle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmSecilenDersListesi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmSecilenDersListesi.Designer.cs">
+      <DependentUpon>FrmSecilenDersListesi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SqlBaglantisi.cs" />
+    <Compile Include="Yetkili\FrmAkademisyenDuyuruEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Yetkili\FrmAkademisyenDuyuruEkle.Designer.cs">
+      <DependentUpon>FrmAkademisyenDuyuruEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Yetkili\FrmAkademisyenDuyurular.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Yetkili\FrmAkademisyenDuyurular.Designer.cs">
+      <DependentUpon>FrmAkademisyenDuyurular.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Yetkili\FrmOgrenciDuyuruEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Yetkili\FrmOgrenciDuyuruEkle.Designer.cs">
+      <DependentUpon>FrmOgrenciDuyuruEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Yetkili\FrmAKADEMISYENekle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Yetkili\FrmAKADEMISYENekle.Designer.cs">
+      <DependentUpon>FrmAKADEMISYENekle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Yetkili\FrmBolumEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Yetkili\FrmBolumEkle.Designer.cs">
+      <DependentUpon>FrmBolumEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Yetkili\FrmOgrenciDuyurular.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Yetkili\FrmOgrenciDuyurular.Designer.cs">
+      <DependentUpon>FrmOgrenciDuyurular.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Yetkili\FrmFakBolEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Yetkili\FrmFakBolEkle.Designer.cs">
+      <DependentUpon>FrmFakBolEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Yetkili\FrmOgrenciEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Yetkili\FrmOgrenciEkle.Designer.cs">
+      <DependentUpon>FrmOgrenciEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Yetkili\FrmOgrenciLISTESI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Yetkili\FrmOgrenciLISTESI.Designer.cs">
+      <DependentUpon>FrmOgrenciLISTESI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Yetkili\FrmUniBilgiFormu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Yetkili\FrmUniBilgiFormu.Designer.cs">
+      <DependentUpon>FrmUniBilgiFormu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Yetkili\FrmYetgiliGiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Yetkili\FrmYetgiliGiris.Designer.cs">
+      <DependentUpon>FrmYetgiliGiris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Yetkili\FrmYetkiliANAFORM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Yetkili\FrmYetkiliANAFORM.Designer.cs">
+      <DependentUpon>FrmYetkiliANAFORM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="YonetimPaneli\FrmAkademiGiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YonetimPaneli\FrmAkademiGiris.Designer.cs">
+      <DependentUpon>FrmAkademiGiris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="YonetimPaneli\FrmAkademisyenDuyurulariGoruntule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YonetimPaneli\FrmAkademisyenDuyurulariGoruntule.Designer.cs">
+      <DependentUpon>FrmAkademisyenDuyurulariGoruntule.cs</DependentUpon>
+    </Compile>
+    <Compile Include="YonetimPaneli\FrmAKADEMISYENGUNCELLE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YonetimPaneli\FrmAKADEMISYENGUNCELLE.Designer.cs">
+      <DependentUpon>FrmAKADEMISYENGUNCELLE.cs</DependentUpon>
+    </Compile>
+    <Compile Include="YonetimPaneli\FrmDersAc2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YonetimPaneli\FrmDersAc2.Designer.cs">
+      <DependentUpon>FrmDersAc2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="YonetimPaneli\FrmDevamsizlikKaydı.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YonetimPaneli\FrmDevamsizlikKaydı.Designer.cs">
+      <DependentUpon>FrmDevamsizlikKaydı.cs</DependentUpon>
+    </Compile>
+    <Compile Include="YonetimPaneli\FrmEgitimciANAFORM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YonetimPaneli\FrmEgitimciANAFORM.Designer.cs">
+      <DependentUpon>FrmEgitimciANAFORM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="YonetimPaneli\FrmNotGirisi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YonetimPaneli\FrmNotGirisi.Designer.cs">
+      <DependentUpon>FrmNotGirisi.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRMACILISFORMU.resx">
+      <DependentUpon>FRMACILISFORMU.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAnaForm.resx">
+      <DependentUpon>FrmAnaForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDersler.resx">
+      <DependentUpon>FrmDersler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDersSecme.resx">
+      <DependentUpon>FrmDersSecme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDevamsizlik.resx">
+      <DependentUpon>FrmDevamsizlik.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmOgrenciDuyurulariGoruntule.resx">
+      <DependentUpon>FrmOgrenciDuyurulariGoruntule.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmNotListesi.resx">
+      <DependentUpon>FrmNotListesi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmOgrenciBilgiGuncelle.resx">
+      <DependentUpon>FrmOgrenciBilgiGuncelle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmSecilenDersListesi.resx">
+      <DependentUpon>FrmSecilenDersListesi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Yetkili\FrmAkademisyenDuyuruEkle.resx">
+      <DependentUpon>FrmAkademisyenDuyuruEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Yetkili\FrmAkademisyenDuyurular.resx">
+      <DependentUpon>FrmAkademisyenDuyurular.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Yetkili\FrmOgrenciDuyuruEkle.resx">
+      <DependentUpon>FrmOgrenciDuyuruEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Yetkili\FrmAKADEMISYENekle.resx">
+      <DependentUpon>FrmAKADEMISYENekle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Yetkili\FrmBolumEkle.resx">
+      <DependentUpon>FrmBolumEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Yetkili\FrmOgrenciDuyurular.resx">
+      <DependentUpon>FrmOgrenciDuyurular.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Yetkili\FrmFakBolEkle.resx">
+      <DependentUpon>FrmFakBolEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Yetkili\FrmOgrenciEkle.resx">
+      <DependentUpon>FrmOgrenciEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Yetkili\FrmOgrenciLISTESI.resx">
+      <DependentUpon>FrmOgrenciLISTESI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Yetkili\FrmUniBilgiFormu.resx">
+      <DependentUpon>FrmUniBilgiFormu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Yetkili\FrmYetgiliGiris.resx">
+      <DependentUpon>FrmYetgiliGiris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Yetkili\FrmYetkiliANAFORM.resx">
+      <DependentUpon>FrmYetkiliANAFORM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YonetimPaneli\FrmAkademiGiris.resx">
+      <DependentUpon>FrmAkademiGiris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YonetimPaneli\FrmAkademisyenDuyurulariGoruntule.resx">
+      <DependentUpon>FrmAkademisyenDuyurulariGoruntule.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YonetimPaneli\FrmAKADEMISYENGUNCELLE.resx">
+      <DependentUpon>FrmAKADEMISYENGUNCELLE.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YonetimPaneli\FrmDersAc2.resx">
+      <DependentUpon>FrmDersAc2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YonetimPaneli\FrmDevamsizlikKaydı.resx">
+      <DependentUpon>FrmDevamsizlikKaydı.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YonetimPaneli\FrmEgitimciANAFORM.resx">
+      <DependentUpon>FrmEgitimciANAFORM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YonetimPaneli\FrmNotGirisi.resx">
+      <DependentUpon>FrmNotGirisi.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="bin\Debug\OTOMASYONV1.exe.config" />
+    <None Include="bin\Debug\OTOMASYONV1.vshost.exe.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bin\Debug\OTOMASYONV1.exe" />
+    <Content Include="bin\Debug\OTOMASYONV1.pdb" />
+    <Content Include="bin\Debug\OTOMASYONV1.vshost.exe" />
+    <None Include="Resources\ogrenciDevamsizlikKismiBanner.png" />
+    <None Include="Resources\ogrenciNotKismiBanner3.png" />
+    <None Include="Resources\ogrenciNotKismiBanner2.png" />
+    <None Include="Resources\ogrenciNotKismiBanner1.png" />
+    <None Include="Resources\ogrenciNotKismiBanner.png" />
+    <None Include="Resources\notKismiBanner.png" />
+    <None Include="Resources\ogrenciNotKisim1.png" />
+    <None Include="Resources\ogrenciNotKisim.png" />
+    <None Include="Resources\banner21.png" />
+    <None Include="Resources\StudentsCap1.png" />
+    <None Include="Resources\Info21.png" />
+    <None Include="Resources\Man1.png" />
+    <None Include="Resources\banner2.png" />
+    <None Include="Resources\bannerDevamsizlik.png" />
+    <None Include="Resources\Banner.png" />
+    <None Include="Resources\PlusAhover.png" />
+    <None Include="Resources\DeleteGreen.png" />
+    <None Include="Resources\DeleteWhite.png" />
+    <None Include="Resources\SaveRadionButton.png" />
+    <None Include="Resources\PlusGreen.png" />
+    <None Include="Resources\TickWhite1.png" />
+    <None Include="Resources\PlusDark1.png" />
+    <None Include="Resources\Info11.png" />
+    <None Include="Resources\Login22.png" />
+    <None Include="Resources\PlusDark.png" />
+    <None Include="Resources\Update.png" />
+    <None Include="Resources\Teachers.png" />
+    <None Include="Resources\RefreshGreen1.png" />
+    <None Include="Resources\Students.png" />
+    <None Include="Resources\List41.png" />
+    <None Include="Resources\Info2.png" />
+    <None Include="Resources\Login21.png" />
+    <None Include="Resources\Login2.png" />
+    <None Include="Resources\Logo.png" />
+    <None Include="Resources\Info1.png" />
+    <None Include="Resources\StudentsCap.png" />
+    <None Include="Resources\AboutGreen.png" />
+    <None Include="Resources\AboutWhite.png" />
+    <None Include="Resources\Books.png" />
+    <None Include="Resources\RefreshWhite.png" />
+    <None Include="Resources\TickWhite.png" />
+    <None Include="Resources\List1.png" />
+    <None Include="Resources\List4.png" />
+    <None Include="Resources\SaveRadionButtonAhover.png" />
+    <None Include="Resources\PlusWhite.png" />
+    <None Include="Resources\RefreshGreen.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="bin\Debug\Resimler\" />
+    <Folder Include="bin\Release\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
