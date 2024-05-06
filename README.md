@@ -30,4 +30,3 @@ npm install
 ## Lisans
 
 Bu proje MIT Lisansı altında lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına başvurun.
-Bu metni GitHub'da yeni bir repository oluştururken README.md dosyasına yapıştırabilirsiniz.
